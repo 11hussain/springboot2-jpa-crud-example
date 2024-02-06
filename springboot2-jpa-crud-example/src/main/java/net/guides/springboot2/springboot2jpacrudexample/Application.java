@@ -8,6 +8,8 @@ public class Application {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
+	// github personal Token	PushSpringBoot2Angular
+	// (Generated Token --> 	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
 	//	E:\chr1\angularmain\angular-frontend>ng serve --port 4300 --open
 	//	E:\chr1\angularmain\angular-frontend>ng serve
 	//	E:\chr1\angularmain\angular-frontend>ng serve
